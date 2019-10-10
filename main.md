@@ -8,13 +8,25 @@ Steps:
 
 ## Outline
 
-An ideal academic does a range of things. She does a research, writes articles, publish, teach... In order to do a good research she reads, curate, select, annotate, sketch, maintain a reference database or even index card catalog (see N. Luhmann). Every activity requires set of skills and could be covered by a number of (overlapping) *workflows*. In the age of metrics *workflows* and skills tend to adopt to the productivism's pressures. That means that any commercial product with a promise for better productivity will be either enforced by enthusiastic management or sometimes embraced by anxious researcher.
+Scholars, or those who take an interest in studying, both within and outside academia, perform a range of everyday tasks as part of their practice. They research, read,  select, annotate, curate, sketch, maintain a reference database or even index card catalog (see N. Luhmann). They write, edit each others' texts, copy-edit, and eventually publish their work in some form. And finally, they teach, share, archive, preserve the knowledges that they are engaged with.
+
+Every single one of these activities, and each of the workflows that compose them, today relies on some digital tool in order to be carried out. And the majority of the tools readily available to scholars, to all those who wish to study and engage with knoweldge, are today commercial products.
+
+An example in case: "On top of their publishing business, Elsevier has built out its 'research intelligence' offering, which now encompases a whole range of digital services, including the Scopus citation database; Mendeley reference manager; the research performance analytics tools SciVal and Research Metrics; the centralised research management system Pure; the institutional repository and publishing platform bepress; and last but not least, grant discovery and funding flow tools Funding Institutional and Elsevier Funding Solutions."  (GrMaMe, Learning from Syllabus 20019) 
+
+Given how central digital tools are becoming in today's universities, schools, museums, archives, libraries, and research centres, whoever owns these platforms stand to greatly impact the processes of knowledge production available to society. The predominance of market-driven solution can present a number of issues, including limiting access and participation in the production and preservation of knowledge (in contrast to the remti fo most public cultural institutions, such as museusm and libraries), but also introduce workflows that might make more sense from the perspective of management than scholars, understood in the broader sense we introduced above. 
+
+Our project 'Seizing The Means of Knowledge Production' wants to tackle this 
+
+set of skills and could be covered by a number of (overlapping) *workflows*. In the age of metrics *workflows* and skills tend to adopt to the productivism's pressures. That means that any commercial product with a promise for better productivity will be either enforced by enthusiastic management or sometimes embraced by anxious researcher.
 
 Our project finds the thin common denominator where skills, *workflows* and tools work together as critical discourse, practice and pedagory in building the infrastructures to seize the means of knowledge production. The common denominator resonates with the history and present of free software, science and culture as well as the radical open access movements. It is the way to avoid, as G. Hall writes in "[Pirate philosophy](https://library.memoryoftheworld.org/#/book/9e4351ea-258c-4216-939b-24c7e6b05d47)",
 
 > something hypocritical about radical theorists advocating a politics of the Commons, commoning and communism, yet appearing to let little of this politics have an impact on the decisions they make (or that are made for them) regarding their own work, business, role, and practices as authors.
 
-The relevant knowledge production was never situated only in academia. Today's world makes that even more obvious (as [Graziano, Medak & Mars](https://library.memoryoftheworld.org/#/book/fa99af52-9821-435e-9d07-0e17eb7c8954)). 
+The relevant knowledge production was never situated only in academia. Today's world makes that even more obvious (as in [Graziano, Medak & Mars](https://library.memoryoftheworld.org/#/book/fa99af52-9821-435e-9d07-0e17eb7c8954)). ~~something about the social movements and their struggles as the space of knowledge production~~
+
+The scope of knowledge in technological environment is a composition of well structured knowledge already formalized in the previous social interactions only to be further developed by technologists to meet the needs of the ones now using what they previously created. 
 
 
 ## **WP1 - LEARNING**
@@ -75,7 +87,9 @@ A first pilot workshop testing the collaborative workflow for the online platfor
 
 # Previous descriptions of projects/activities
 
-## Housing struggles workshop in London
+## [Amateur Librarian - A Course in Critical Pedagogy](http://tom.medak.click/en/amateur/)
+
+## Housing struggles workshop in London (from an email to participants)
 
 The workshop we have in mind would be about creating collaborative open syllabi on specific knowledges related to socio-political struggles and social movements, in our case, housing struggles. This comes after the three of us took some time to think together on that topic. We wrote an article "Learning from #Syllabus" (attached to this email), where we did an outline for what we hope will be a longer term collaborative project. We were inspired with the phenomenon of #syllabus spreading via twitter and social media, but felt that while #syllabus is great for campaigning, it is also important to develop some digital networks, platforms and workflows so those attempts get a chance to do their politics, intervene, adjust, resist and live more long term. Of course, we are not into any tech-solution(ism) here, but some tech is part of the vision ;)
 
